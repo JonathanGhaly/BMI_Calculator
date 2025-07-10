@@ -1,0 +1,27 @@
+[
+  {
+    "min_age": 20,
+    "max_age": 24,
+    "max_bmi": 25
+  },
+  {
+    "min_age": 25,
+    "max_age": 29,
+    "max_bmi": 25.5
+  },
+  {
+    "min_age": 30,
+    "max_age": 39,
+    "max_bmi": 26
+  },
+  {
+    "min_age": 40,
+    "max_age": 49,
+    "max_bmi": 27
+  },
+  {
+    "min_age": 50,
+    "max_age": 200,
+    "max_bmi": 28
+  }
+]
